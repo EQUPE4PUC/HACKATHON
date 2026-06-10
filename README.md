@@ -5,3 +5,9 @@
 
 - https://gamma.app/docs/PUC-2026-qitmjmibnnop3rb
 - https://miro.com/app/board/uXjVHHPc-Dw=/
+
+### Pitch
+
+Pequenos varejistas geram diariamente uma enorme quantidade de dados sobre vendas, estoque e clientes, mas raramente conseguem transformar essas informações em decisões estratégicas. O **ConsultorIA** resolve esse problema atuando como um consultor virtual baseado em inteligência artificial. A plataforma analisa dados do negócio por meio de microagentes especializados, identifica oportunidades, riscos e tendências de mercado, e gera recomendações práticas e personalizadas para aumentar vendas, otimizar estoques e melhorar a gestão. Nosso diferencial é democratizar o acesso à inteligência de negócios, oferecendo às pequenas empresas ferramentas que antes estavam disponíveis apenas para grandes organizações, permitindo decisões mais rápidas, seguras e orientadas por dados.
+
+### Infografico
