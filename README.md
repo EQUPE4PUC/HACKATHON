@@ -6,6 +6,7 @@
 - https://gamma.app/docs/PUC-2026-qitmjmibnnop3rb
 - https://miro.com/app/board/uXjVHHPc-Dw=/
 - https://consultoria-ia-boost.lovable.app
+- https://canva.link/c4m6tnt8wenf0pm
 
 ### Pitch
 
