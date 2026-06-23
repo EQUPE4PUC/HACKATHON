@@ -3,7 +3,7 @@
 ### ConsultorIA
 #### 
 
-- https://gamma.app/docs/PUC-2026-qitmjmibnnop3rb
+- https://gamma.app/docs/PUC-2026-cnc8mb6g962sis0 (slide protótipo)
 - https://miro.com/app/board/uXjVHHPc-Dw=/ (rascunho)
 - https://consultoria-ia-boost.lovable.app (site parcialmente interativo)
 - https://canva.link/c4m6tnt8wenf0pm (apresentação)
