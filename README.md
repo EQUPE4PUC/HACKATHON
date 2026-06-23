@@ -4,10 +4,10 @@
 #### 
 
 - https://gamma.app/docs/PUC-2026-qitmjmibnnop3rb
-- https://miro.com/app/board/uXjVHHPc-Dw=/ (protótipo)
-- https://consultoria-ia-boost.lovable.app
+- https://miro.com/app/board/uXjVHHPc-Dw=/ (rascunho)
+- https://consultoria-ia-boost.lovable.app (site parcialmente interativo)
 - https://canva.link/c4m6tnt8wenf0pm (apresentação)
-- https://stitch.withgoogle.com/projects/10472021789251131918?pli=1 (app)
+- https://stitch.withgoogle.com/projects/10472021789251131918?pli=1 (protótipo de app)
 
 ### Pitch
 
